@@ -14,7 +14,7 @@ Weather-trend-forecasting/
 │   ├── 02_eda.ipynb
 │   ├── 03_modeling_basic.ipynb
 ├── visuals/                 # Generated charts & plots
-├── report/                  # Final report / presentation
+├── report/                  # Final report/presentation
 ├── requirements.txt
 └── README.md
 
@@ -52,6 +52,6 @@ Weather-trend-forecasting/
 
 
 ##  Tech Stack
-- **Python**: pandas, numpy, matplotlib, statsmodels, prophet, xgboost, geopandas
+- **Python**: pandas, numpy, matplotlib, statsmodels
 - **EDA & Modeling**: Jupyter Notebook
-- **Visualization**: Matplotlib (and optional Plotly/Geopandas for maps)
+- **Visualization**: Matplotlib 
