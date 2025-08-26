@@ -1,0 +1,5 @@
+Rows: 85745
+Columns: 32
+Time range: 2024-05-16 00:00:00 → 2025-08-25 00:00:00
+Countries: 211
+Top 5 countries: Afghanistan, Indonesia, Mali, Malawi, Madagascar
