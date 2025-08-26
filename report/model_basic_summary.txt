@@ -1,0 +1,1 @@
+Target: Global temperature_celsius\nTrain: 2024-05-16 → 2025-07-26 (n=437)\nTest : 2025-07-27 → 2025-08-25 (n=30)\nBest model by RMSE: Naive (MAE=0.795, RMSE=0.937, MAPE=3.26%)\n
